@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 <h2 align="center"> Hi Everyone 👋 </h2>
 <a href=""><img src="https://user-images.githubusercontent.com/51687199/198168382-27d08c7b-3971-44b7-929b-4d6167420dc7.png" alt="My banner"></a>
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antovm002&layout=compact)](https://github.com/Antovm002/github-readme-stats)
